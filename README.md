@@ -1,4 +1,4 @@
-ServiceNow Batch API
+ServiceNow Batch API - 
 An example of using this API using PowerShell
 
 The official documentation only gave a CURL example 
