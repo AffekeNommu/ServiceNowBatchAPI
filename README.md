@@ -1,5 +1,5 @@
 ServiceNow Batch API - 
-An example of using this API using PowerShell
+An example of using this API with PowerShell
 
 The official documentation only gave a CURL example 
 https://developer.servicenow.com/dev.do#!/reference/api/tokyo/rest/batch-api
